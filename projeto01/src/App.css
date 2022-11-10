@@ -7,17 +7,20 @@
 }
 
 /* TOPO */
+
 header {
-  background-color: #20232a;
-  color: #61dafb;
-  padding: 0 15px;
+  background-color: #09623C;
+  color: #FFD8A3;
+  text-align: left;
+  padding: 0px 20px;
 }
 
-header p {
+header > p {
   font-weight: bold;
 }
 
 /* CONTEÚDO */
+
 main {
   height: 100%;
   display: flex;
@@ -25,32 +28,36 @@ main {
   text-align: center;
 }
 
-/* SEÇÃO TÍTULO */
+/* TÍTULO */
+
 .box-titulo {
-  background-color: #282c34;
+  background-color: #4FA882;
   padding-bottom: 50px;
 }
- 
+
 h1 {
-  color: #61dafb;
+  color: #FFD8A3;
 }
 
-.box-titulo p{
+.box-titulo p {
   font-size: 24px;
-  color: #fff;
+  color: black;
   margin-bottom: 50px;
 }
 
-.box-titulo a{
+.box-titulo a {
   text-decoration: none;
-  background-color: #61dafb;
-  color: #000;
+  background-color: #FFD8A3;
+  border-radius: 5px;
+  color: black;
   padding: 10px 20px;
-} 
+  font-weight: bold;
+}
 
-/* SEÇÃO REQUISITOS */
+/* REQUISITOS */
+
 .box-requisitos {
-  padding: 30px 10px;
+  padding: 30px;
 }
 
 .box-cards {
@@ -64,28 +71,27 @@ h1 {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  background-color: #282c34;
+  background-color: #4FA882;
   width: calc((100% / 3) - 10px);
   max-width: 300px;
   margin: 5px;
   padding: 20px 15px;
   border-radius: 5px;
-  box-shadow: 5px 5px 5px rgb(145, 145, 145);
+  box-shadow: 5px 5px rgba(145, 145, 145, 0.364);
 }
 
-.card h3{
+.card h3 {
   margin: 0 0 10px;
-  color: #edc854;
-} 
+  color: #A22249;
+}
 
 .card p {
   margin: 0;
-  color: #fff;
-} 
+}
 
-/* SEÇÃO RODAPÉ */
-/* footer {
-  background-color: #f2f3f6;
+/* RODAPÉ */
+
+footer {
+  background-color: #FFD8A3;
   text-align: center;
-} */
+}
