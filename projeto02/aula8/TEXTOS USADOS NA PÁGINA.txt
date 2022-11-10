@@ -1,0 +1,22 @@
+TOPO
+React JS
+Biblioteca JavaScript para criar SPAs
+
+Site Oficial [LINK: https://reactjs.org/]
+
+--------------------------------------------------------------------------------
+SEÇÃO 1
+Requisitos
+Veja abaixo os requisitos mínimos para aprender React JS:
+
+HTML
+Aprender a estruturar os elementos da página com HTML
+CSS
+Aprender a estilizar os elementos da página com CSS
+JavaScript
+Aprender a linguagem utilizada pelo React JS, o JavaScript
+
+SEÇÃO 2
+
+RODAPÉ
+Curso de introdução de React JS
